@@ -34,14 +34,6 @@ I am currently a first-year student at Kantonsschule Limmattal. Outside of schoo
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Levi-Smokrovic&show_icons=true&theme=transparent&hide_border=true&title_color=C2410C&icon_color=C2410C&text_color=555555" alt="Levi's GitHub Stats" />
-</div>
-
----
-
 ### 📫 Get in Touch
 - 📧 Email: levi.smokrovic@outlook.com
 - 💼 Check out my Portfolio Website *(Link coming soon)*
