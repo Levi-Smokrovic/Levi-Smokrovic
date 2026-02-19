@@ -14,19 +14,24 @@ I am currently a first-year student at Kantonsschule Limmattal. Outside of schoo
 - ⚙️ **Hardware Tinkering:** I love taking apart old electronics to reverse-engineer them and understand computing from the inside out.
 - 🤖 **Python & AI:** I enjoy building scripts and participated in the CodeQuest Hackathon 2025 (2nd Place), where we built a YOLO-based fall detection model for seniors.
 - 🍏 **iOS & Swift Experience:** In the past, I dove into iOS development. I learned the fundamentals of SwiftUI, REST-APIs, and JSON data, and successfully published 3 native apps (like *Bedtime Stories* and a *Pedometer*). 
-- 🌐 **Web Basics:** My journey started with HTML, JavaScript and Firebase, building simple tools like an interactive digital To-Do list.
+- 🌐 **Web Basics:** My journey started with JavaScript and Firebase, building simple tools like an interactive digital To-Do list.
 
 ---
 
 ### 🛠️ Tech Stack & Tools I've worked with
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Languages:** <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/swift/F54A2A" height="40" alt="Swift" title="Swift" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" title="CSS3" />
 
-**Tools & Environments:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+<br>
+
+**Tools & Environments:** <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="Xcode" title="Xcode" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05033" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" title="GitHub" />
 
 ---
 
