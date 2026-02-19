@@ -36,4 +36,4 @@ I am currently a first-year student at Kantonsschule Limmattal. Outside of schoo
 
 ### 📫 Get in Touch
 - 📧 Email: levi.smokrovic@outlook.com
-- 💼 Check out my Portfolio Website *(Link coming soon)*
+- 💼 Check out my [Interactive Portfolio Website](https://levi-smokrovic.github.io/)
