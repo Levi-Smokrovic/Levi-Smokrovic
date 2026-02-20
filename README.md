@@ -1,19 +1,18 @@
 # Hi there, I'm Levi! 👋
 
-### 👨‍💻 Aspiring Software Developer | Tech Enthusiast | 13 y/o | Zurich, CH
+### 👨‍💻 Aspiring Software Developer | Tech Enthusiast | Born 2012 | Zurich, CH
 
-*"I build things to understand how they work. From writing my first lines of HTML to training AI models and exploring cybersecurity, I love turning code into real-world projects."*
-
-I am currently a first-year student at Kantonsschule Limmattal. Outside of school, I spend my free time exploring different areas of tech, solving complex problems, and building software that provides real value. My long-term goal: To actively shape the tech industry.
+*"Code is my language. I am currently attending Kantonsschule Limmattal (High School) and use every free minute for hands-on tech projects. Besides publishing my own iOS apps, developing AI models, and building freelance websites, I am currently diving deep into Cyber Security (Hack The Box) and hardware engineering. I just really enjoy learning new things and using code to solve small everyday problems. My big dream: To work in Silicon Valley one day."*
 
 ---
 
 ### 🌱 My Tech Journey & Current Interests
 
-- 🍏 **Advanced iOS Development:** Deep diving into Swift & SwiftUI, working with REST-APIs, URLSession, and JSON-Codable (Mentored by a Senior iOS Dev).
-- 🔐 **Cyber Security:** Learning the basics of penetration testing and having a lot of fun on *Hack The Box*.
-- ⚙️ **Hardware Tinkering:** I love taking apart old electronics to reverse-engineer them and understand computing from the inside out.
-- 🤖 **Python & AI:** I enjoy building scripts and participated in the CodeQuest Hackathon 2025 (2nd Place), where we built a YOLO-based fall detection model for seniors.
+- 🍏 **Advanced iOS Development:** Deep diving into Swift & SwiftUI, working with REST APIs, URLSession, and JSON-Codable (Mentored by a Senior iOS Dev). Published 3 apps on the App Store (hitting #1 in Paid Entertainment and Top 3 in Paid Lifestyle in Switzerland).
+- 🌐 **Web Development:** Fullstack web development, including a freelance project where I designed and built the official company website for *Sanitär Hauert*.
+- 🔐 **Cyber Security:** Learning the basics of IT security, penetration testing, and having a lot of fun on *Hack The Box*.
+- 🤖 **Python & AI:** Participated in the CodeQuest Hackathon 2025 (2nd Place), where we built a YOLO-based fall detection model for seniors.
+- 🎙️ **Content Creation:** Running my own faceless tech channel "Technova Podcast" on YouTube.
 
 ---
 
@@ -27,7 +26,9 @@ I am currently a first-year student at Kantonsschule Limmattal. Outside of schoo
 
 <br>
 
-**Tools & Environments:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="25" title="Xcode" />&nbsp;&nbsp;
+**Tools & Environments:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="25" title="VS Code" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="25" title="JetBrains" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="25" title="Xcode" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" title="Git" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="25" title="Firebase" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="25" title="GitHub" />
