@@ -1,6 +1,6 @@
 # Hi there, I'm Levi! 👋
 
-### 👨‍💻 Junior Developer | Tech Enthusiast | 13 y/o | Zurich, CH
+### 👨‍💻 Aspiring Software Developer | Tech Enthusiast | 13 y/o | Zurich, CH
 
 *"I build things to understand how they work. From writing my first lines of HTML to training AI models and exploring cybersecurity, I love turning code into real-world projects."*
 
