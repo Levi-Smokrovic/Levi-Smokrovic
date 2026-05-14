@@ -8,7 +8,7 @@
 
 ### 🌱 My Tech Journey & Current Interests
 
-- 🍏 **Advanced iOS Development:** Deep diving into Swift & SwiftUI, working with REST APIs, URLSession, and JSON-Codable (Mentored by a Senior iOS Dev). Published 3 apps on the App Store (hitting #1 in Paid Entertainment and Top 3 in Paid Lifestyle in Switzerland).
+- 🍏 **iOS Development:** Deep diving into Swift & SwiftUI, working with REST APIs, URLSession, and JSON-Codable (Mentored by a Senior iOS Dev). Published 3 apps on the App Store (hitting #1 in Paid Entertainment and Top 3 in Paid Lifestyle in Switzerland).
 - 🌐 **Web Development:** Fullstack web development, including a freelance project where I designed and built the official company website for *Sanitär Hauert*.
 - 🔐 **Cyber Security:** Learning the basics of IT security, penetration testing, and having a lot of fun on *Hack The Box*.
 - 🤖 **Python & AI:** Participated in the CodeQuest Hackathon 2025 (2nd Place), where we built a YOLO-based fall detection model for seniors.
