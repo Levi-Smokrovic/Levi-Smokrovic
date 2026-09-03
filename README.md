@@ -1,18 +1,33 @@
 # Hi there, I'm Levi! 👋
 
-### 👨‍💻 Aspiring Software Developer | Tech Enthusiast | Born 2012 | Zurich, CH
+### Aspiring Software Developer | iOS, AI & Security | Zurich, CH
 
-*"Code is my language. I am currently attending Kantonsschule Limmattal (High School) and use every free minute for hands-on tech projects. Besides publishing my own iOS apps, developing AI models, and building freelance websites, I am currently diving deep into Cyber Security (Hack The Box) and hardware engineering. I just really enjoy learning new things and using code to solve small everyday problems. My big dream: To work in Silicon Valley one day."*
+*"Code is my language. I'm in my second year of Sekundarschule (Sek A) in Urdorf and I'm working towards an apprenticeship as a software engineer (Informatiker EFZ, Applikationsentwicklung). Most of my free time goes into building things: iOS apps, AI models, freelance websites. Right now I'm deep into Cyber Security (Hack The Box) and hardware engineering. I just really enjoy learning new things and using code to solve small everyday problems. My big dream: to work in Silicon Valley one day."*
 
 ---
 
-### 🌱 My Tech Journey & Current Interests
+### Things I've Built and Done
 
-- 🍏 **iOS Development:** Deep diving into Swift & SwiftUI, working with REST APIs, URLSession, and JSON-Codable (Mentored by a Senior iOS Dev). Published 3 apps on the App Store (hitting #1 in Paid Entertainment and Top 3 in Paid Lifestyle in Switzerland).
-- 🌐 **Web Development:** Fullstack web development, including a freelance project where I designed and built the official company website for *Sanitär Hauert*.
-- 🔐 **Cyber Security:** Learning the basics of IT security, penetration testing, and having a lot of fun on *Hack The Box*.
-- 🤖 **Python & AI:** Participated in the CodeQuest Hackathon 2025 (2nd Place), where we built a YOLO-based fall detection model for seniors.
-- 🎙️ **Content Creation:** Running my own faceless tech channel "Technova Podcast" on YouTube.
+- 🍏 **3 apps published on the App Store.** *Slumber Stories* hit **#1 in Paid Entertainment** in Switzerland, *DailyQuote* reached the **Top 3 in Paid Lifestyle**. Built with Swift & SwiftUI, REST APIs, URLSession and JSON-Codable (mentored by a senior iOS dev).
+- 🏆 **2nd place, codeQUEST «Generation Alpha» Hackathon 2025 (swissICT).** Our team built a YOLO-based fall detection system for seniors with an automatic emergency call.
+- 🧑‍🏫 **Junior Mentor at the Generation Alpha Hackathon 2026.** Came back a year later on the other side of the table, ran my own mini workshop and coached the youth teams.
+- 🎓 **Co-led the hands-on group at the «Jugend & KI» workshop (swissICT).** Guided 50+ participants, from teenagers to local council members, through modern AI tools.
+- 🔐 **Teen Hackathon by Google Switzerland,** completed in «Hacker Mode» with TechSpark Academy and Google Cybersecurity.
+- 🌐 **Freelance web development.** Designed and built the official company website for *Sanitär Hauert*.
+- 🎙️ **Technova Podcast,** my own faceless tech channel on YouTube.
+
+---
+
+### 📌 Selected Repositories
+
+| Project | What it is |
+|---|---|
+| [copilot-chat-mcp](https://github.com/Levi-Smokrovic/copilot-chat-mcp) | A Model Context Protocol server that lets AI agents be driven from Telegram and a web UI. |
+| [GreenMind](https://github.com/Levi-Smokrovic/GreenMind) | *(add one line here: what it does and why you built it)* |
+| [Hackathon-26](https://github.com/Levi-Smokrovic/Hackathon-26) | *(add one line here)* |
+| [minotes](https://github.com/Levi-Smokrovic/minotes) | *(add one line here)* |
+
+> My App Store apps aren't public repositories, so the work that's easiest to look at is my [portfolio site](https://levi-smokrovic.github.io/).
 
 ---
 
@@ -23,9 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" title="JavaScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" title="HTML5" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" title="CSS3" />
-
 <br>
-
 **Tools & Environments:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="25" title="VS Code" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="25" title="JetBrains" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="25" title="Xcode" />&nbsp;&nbsp;
@@ -36,5 +49,7 @@
 ---
 
 ### 📫 Get in Touch
+
 - 📧 Email: levi.smokrovic@outlook.com
-- 💼 Check out my [Interactive Portfolio Website](https://levi-smokrovic.github.io/)
+- 💼 [Interactive Portfolio Website](https://levi-smokrovic.github.io/)
+- 🎯 Currently looking for **Schnupperlehren** in application development around Zurich.
