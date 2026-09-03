@@ -9,7 +9,7 @@ Code is my language. I'm in my second year of Sek A in Urdorf and I'm going for 
 ## What I've built and done
 
 - **3 iOS apps published on the App Store.** *Slumber Stories* reached **#1 in Paid Entertainment** in Switzerland, *DailyQuote* the **Top 3 in Paid Lifestyle**. Swift and SwiftUI, REST APIs, URLSession, JSON-Codable. A senior iOS dev mentored me through it.
-- **GreenMind, an AI assistant that runs entirely on your phone.** Qwen 2.5 0.5B on llama.cpp, Flutter on mobile and WebAssembly on the web. No cloud, no API key, no data leaving the device, and none of the CO2 a cloud chatbot burns per request. Built at a hackathon in 2026 with Neal and Robin.
+- **GreenMind, an AI assistant that runs entirely on your phone.** Qwen 2.5 0.5B on llama.cpp, Flutter on mobile and WebAssembly on the web. No cloud, no API key, no data leaving the device, and none of the CO2 a cloud chatbot burns per request. Built at a hackathon in 2026 with two friends.
 - **2nd place at codeQUEST «Generation Alpha» 2025 (swissICT).** We built a fall detection system for seniors with YOLO that calls for help automatically.
 - **Junior mentor at the Generation Alpha Hackathon 2026.** Same hackathon a year later, but on the other side of the table. I ran my own mini workshop and coached the youth teams.
 - **Co-led the hands-on group at the «Jugend & KI» workshop (swissICT).** Over 50 people, from teenagers to members of the local council, trying out AI tools. I was the one showing them how.
