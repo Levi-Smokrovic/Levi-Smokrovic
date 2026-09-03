@@ -13,7 +13,7 @@ Code is my language. I'm in my second year of Sek A in Urdorf and I'm going for 
 - **2nd place at codeQUEST «Generation Alpha» 2025 (swissICT).** We built a fall detection system for seniors with YOLO that calls for help automatically.
 - **Junior mentor at the Generation Alpha Hackathon 2026.** Same hackathon a year later, but on the other side of the table. I ran my own mini workshop and coached the youth teams.
 - **Co-led the hands-on group at the «Jugend & KI» workshop (swissICT).** Over 50 people, from teenagers to members of the local council, trying out AI tools. I was the one showing them how.
-- **Teen Hackathon by Google Switzerland,** finished in «Hacker Mode» with TechSpark Academy and Google Cybersecurity.
+- **Teen Hackathon at Google Switzerland in Zurich,** run by TechSpark Academy together with Google Cybersecurity. Finished in «Hacker Mode».
 - **Freelance web dev.** I designed and built the company website for *Sanitär Hauert*.
 - **Technova Podcast,** my own faceless tech channel on YouTube.
 
